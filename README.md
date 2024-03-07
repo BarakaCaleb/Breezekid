@@ -28,9 +28,9 @@
 
 # Breeze kid
 
-**`Code Mancer (Developer/Cyber warrior/Designer)`**
+**`Code Mancer (Developer/Cyber warrior/Software Alchemist)`**
 
-I'm an 🚀 Aspiring Full Stack Sorcerer 🎩✨ | Frontend virtuoso turned backend architect 🖌️🏰 | JavaScript conjurer, crafting digital realms with a sprinkle of magic ✍️🌟 | Welcome to my enchanted code sanctuary, where pixels dance to my incantations and databases whisper secrets. Join me in weaving the web of tomorrow, one line of code at a time. 🌐🔮 Let's create digital wonders together! ✨🚀
+I'm an 🚀 Aspiring Full Stack Engineer 🎩✨ | Frontend virtuoso turned backend architect 🖌️🏰 | JavaScript conjurer, crafting digital realms with a sprinkle of magic ✍️🌟 | Welcome to my enchanted code sanctuary, where pixels dance to my incantations and databases whisper secrets. Join me in weaving the web of tomorrow, one line of code at a time. 🌐🔮 Let's create digital wonders together! ✨🚀
 
 
 
