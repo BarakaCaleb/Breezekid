@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Breezekid&style=flat-square&color=blue" alt=""/>
 <h1></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
+  <img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Master image"/>
 </div>
 
 
